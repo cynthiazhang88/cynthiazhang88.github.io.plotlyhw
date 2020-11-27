@@ -1,17 +1,17 @@
 /* Body */
 body {
     background-color: grey;
- }
-  
-  h1 {
+}
+
+h1 {
     color: black;
     margin-left: 20px;
-  }
+}
 
   /* Bellybutton */
-  .jumbotron{
+.jumbotron{
     background-color: yellowgreen;
-  }
+}
 /* panel */
 .panel{
     width: auto;
@@ -69,11 +69,11 @@ padding-top: 15px;
 
 .col-md-2{
     color: yellowgreen;
-  }
+}
 
-  .panel-primary > .panel-heading {
+.panel-primary > .panel-heading {
     color: #fff;
     background-color:yellowgreen;
     border-color:yellowgreen;
-  }
+}
 
