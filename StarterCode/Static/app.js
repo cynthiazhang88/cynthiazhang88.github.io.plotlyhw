@@ -186,4 +186,3 @@ function BuildGaugeChart(data, variableID) {
     Plotly.plot('gauge', data, gaugeLayout)
 
 };
-
