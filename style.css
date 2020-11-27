@@ -1,0 +1,79 @@
+/* Body */
+body {
+    background-color: grey;
+ }
+  
+  h1 {
+    color: black;
+    margin-left: 20px;
+  }
+
+  /* Bellybutton */
+  .jumbotron{
+    background-color: yellowgreen;
+  }
+/* panel */
+.panel{
+    width: auto;
+    background-color: whitesmoke;
+}
+
+.col-md-2{
+    background-color: yellowgreen; 
+}
+
+.OTU{
+    color: black;
+
+}
+#selDataset{
+    background-color:white;
+}
+
+/* Title Class  */
+.title{
+    color: #1a9c96;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder; 
+    padding-top: 25px; 
+}
+
+/* Footer */
+footer{
+background-color:yellowgreen; 
+border-top-style: solid; 
+border-top-width: 5px; 
+border-top-color: rgb(3, 3, 3);
+color: white; 
+min-height: 55px; 
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px; 
+text-align: center; 
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+padding-top: 15px; 
+}
+
+
+#sample-metadata{
+    color: yellowgreen;
+}
+#panel.panel-primary{
+    color: yellowgreen;
+}
+.panel-heading{
+    color: yellowgreen;
+}
+
+.col-md-2{
+    color: yellowgreen;
+  }
+
+  .panel-primary > .panel-heading {
+    color: #fff;
+    background-color:yellowgreen;
+    border-color:yellowgreen;
+  }
+
