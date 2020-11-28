@@ -1,6 +1,6 @@
 // Function to format the demographic information into the drop down menu
 function gatheringDemographicInfo(id) {
-    d3.json("samples.json").then((data) => {
+    d3.json(dataAsJSON).then((data) => {
         var metadata = data.metadata;
         // Filter Metadata
         var info = metadata.filter(m => m.id.toString() == id)[0];
@@ -14,7 +14,7 @@ function gatheringDemographicInfo(id) {
 
 // Function to format the plots
 function buildPlot(id) {
-    d3.json("samples.json").then((data) => {
+    d3.json(dataAsJSON).then((data) => {
         // Filter data and slice into the top ten samples.
         var one_sample_data = data.samples.filter(s => s.id.toString() == id)[0];
         var otu_ids = one_sample_data.otu_ids
@@ -89,7 +89,7 @@ function changeDemographic(id) {
 // Intializing the buld plot and gathering Demo info
 function init() {
     var dropDownMenu = d3.select("#selDataset");
-    d3.json("samples.json").then((data) => {
+    d3.json(dataAsJSON).then((data) => {
         var sample_names = data.names
         sample_names.forEach((one_sample) => {
             dropDownMenu.append("option").text(one_sample).property("value", one_sample);
