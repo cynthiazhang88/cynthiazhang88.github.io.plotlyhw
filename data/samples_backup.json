@@ -1,5 +1,5 @@
 {
-    "names":[
+    "names": [
         "940",
         "941",
         "943",
@@ -159,70 +159,70 @@
             "id": 940,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 24.0,
+            "age": 24,
             "location": "Beaufort/NC",
             "bbtype": "I",
-            "wfreq": 2.0
+            "wfreq": 2
         },
         {
             "id": 941,
             "ethnicity": "Caucasian/Midleastern",
             "gender": "F",
-            "age": 34.0,
+            "age": 34,
             "location": "Chicago/IL",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 943,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 49.0,
+            "age": 49,
             "location": "Omaha/NE",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 944,
             "ethnicity": "European",
             "gender": "M",
-            "age": 44.0,
+            "age": 44,
             "location": "NewHaven/CT",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 945,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 48.0,
+            "age": 48,
             "location": "Philidelphia/PA",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 946,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 42.0,
+            "age": 42,
             "location": "Deerfield/MA",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 947,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 49.0,
+            "age": 49,
             "location": "ChapelHill/NC",
             "bbtype": "I",
-            "wfreq": 6.0
+            "wfreq": 6
         },
         {
             "id": 948,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 20.0,
+            "age": 20,
             "location": "ChapelHill/NC",
             "bbtype": "I",
             "wfreq": null
@@ -231,115 +231,115 @@
             "id": 949,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 51.0,
+            "age": 51,
             "location": "Durham/NC",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 950,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 51.0,
+            "age": 51,
             "location": "NewYork/NY",
             "bbtype": "I",
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 952,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 51.0,
+            "age": 51,
             "location": "Seattle/WA",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 953,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 38.0,
+            "age": 38,
             "location": "Chicago/IL",
             "bbtype": "I",
-            "wfreq": 2.0
+            "wfreq": 2
         },
         {
             "id": 954,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 26.0,
+            "age": 26,
             "location": "NewYork/NY",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 955,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 27.0,
+            "age": 27,
             "location": "NewYork/NY",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 956,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 16.0,
+            "age": 16,
             "location": "Jacksonville/NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 958,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 43.0,
+            "age": 43,
             "location": "Wilmington/NC",
             "bbtype": "I",
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 959,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 40.0,
+            "age": 40,
             "location": "Carrboro/NC",
             "bbtype": "I",
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 960,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 48.0,
+            "age": 48,
             "location": "Lexington/NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 961,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 35.0,
+            "age": 35,
             "location": "Edmonton,AB",
             "bbtype": "i",
-            "wfreq": 4.0
+            "wfreq": 4
         },
         {
             "id": 962,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 56.0,
+            "age": 56,
             "location": "Washington,DC",
             "bbtype": "i",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 963,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 33.0,
+            "age": 33,
             "location": "Ithaca/NY",
             "bbtype": "I",
             "wfreq": 3.5
@@ -348,88 +348,88 @@
             "id": 964,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 43.0,
+            "age": 43,
             "location": "UK/London",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 966,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 56.0,
+            "age": 56,
             "location": "Needham/MA",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 967,
             "ethnicity": "Caucasian/Jewish",
             "gender": "F",
-            "age": 43.0,
+            "age": 43,
             "location": "ChapelHill/NC",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 968,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 38.0,
+            "age": 38,
             "location": "St.Louis/MI",
             "bbtype": "I",
-            "wfreq": 6.0
+            "wfreq": 6
         },
         {
             "id": 969,
             "ethnicity": "Caucasian/Asian",
             "gender": "F",
-            "age": 31.0,
+            "age": 31,
             "location": "ChevyChase/MD",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 970,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 42.0,
+            "age": 42,
             "location": "SanDiego/CA",
             "bbtype": "i",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 971,
             "ethnicity": "Asian(South)",
             "gender": "M",
-            "age": 36.0,
+            "age": 36,
             "location": "SantaBarbara/CA",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 972,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 31.0,
+            "age": 31,
             "location": "Charlotte/NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 973,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 4.0,
+            "age": 4,
             "location": "Charlotte/NC",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 974,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 57.0,
+            "age": 57,
             "location": "Raleigh/NC",
             "bbtype": "I",
             "wfreq": null
@@ -438,16 +438,16 @@
             "id": 975,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 60.0,
+            "age": 60,
             "location": "NewCanaan/CT",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 978,
             "ethnicity": "Hispanic",
             "gender": "F",
-            "age": 21.0,
+            "age": 21,
             "location": "Durham/NC",
             "bbtype": null,
             "wfreq": null
@@ -456,10 +456,10 @@
             "id": 1233,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 34.0,
+            "age": 34,
             "location": null,
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1234,
@@ -474,52 +474,52 @@
             "id": 1235,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 43.0,
+            "age": 43,
             "location": null,
             "bbtype": null,
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1236,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 54.0,
+            "age": 54,
             "location": null,
             "bbtype": null,
-            "wfreq": 6.0
+            "wfreq": 6
         },
         {
             "id": 1237,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 9.0,
+            "age": 9,
             "location": "ChapelHill,NC",
             "bbtype": "i",
-            "wfreq": 2.0
+            "wfreq": 2
         },
         {
             "id": 1238,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 41.0,
+            "age": 41,
             "location": "Raleigh,NC",
             "bbtype": "i",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1242,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 44.0,
+            "age": 44,
             "location": "Raleigh,NC",
             "bbtype": "i",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 1243,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 49.0,
+            "age": 49,
             "location": "Raleigh,NC",
             "bbtype": "i",
             "wfreq": null
@@ -528,133 +528,133 @@
             "id": 1246,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 2.0,
+            "age": 2,
             "location": "Atlanta,GA",
             "bbtype": null,
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1253,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 24.0,
+            "age": 24,
             "location": "Voss,NC",
             "bbtype": "i",
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 1254,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 1.0,
+            "age": 1,
             "location": "Voss,NC",
             "bbtype": "o",
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 1258,
             "ethnicity": "Caucasian",
             "gender": "f",
-            "age": 31.0,
+            "age": 31,
             "location": "Smithfield,NC",
             "bbtype": "i",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1259,
             "ethnicity": "Caucasian",
             "gender": "m",
-            "age": 33.0,
+            "age": 33,
             "location": "Smithfield,NC",
             "bbtype": null,
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1260,
             "ethnicity": "Caucasian",
             "gender": "m",
-            "age": 10.0,
+            "age": 10,
             "location": "Smithfield,NC",
             "bbtype": null,
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1264,
             "ethnicity": "Caucasian",
             "gender": "m",
-            "age": 46.0,
+            "age": 46,
             "location": "Raleigh,NC",
             "bbtype": "i",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1265,
             "ethnicity": "Caucasian",
             "gender": "f",
-            "age": 10.0,
+            "age": 10,
             "location": "Raleigh,NC",
             "bbtype": "i",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1273,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 60.0,
+            "age": 60,
             "location": null,
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1275,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 18.0,
+            "age": 18,
             "location": null,
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1276,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 34.0,
+            "age": 34,
             "location": null,
             "bbtype": "O",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1277,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 67.0,
+            "age": 67,
             "location": null,
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1278,
             "ethnicity": null,
             "gender": "M",
-            "age": 44.0,
+            "age": 44,
             "location": null,
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1279,
             "ethnicity": "Black",
             "gender": "F",
-            "age": 60.0,
+            "age": 60,
             "location": null,
             "bbtype": "O",
-            "wfreq": 9.0
+            "wfreq": 9
         },
         {
             "id": 1280,
             "ethnicity": "PacificIslander",
             "gender": "F",
-            "age": 30.0,
+            "age": 30,
             "location": null,
             "bbtype": "I",
             "wfreq": null
@@ -663,16 +663,16 @@
             "id": 1281,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 55.0,
+            "age": 55,
             "location": null,
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1282,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 53.0,
+            "age": 53,
             "location": null,
             "bbtype": "I",
             "wfreq": null
@@ -681,25 +681,25 @@
             "id": 1283,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 48.0,
+            "age": 48,
             "location": null,
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1284,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 30.0,
+            "age": 30,
             "location": null,
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1285,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 42.0,
+            "age": 42,
             "location": null,
             "bbtype": "Both",
             "wfreq": null
@@ -708,16 +708,16 @@
             "id": 1286,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 38.0,
+            "age": 38,
             "location": null,
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1287,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 46.0,
+            "age": 46,
             "location": null,
             "bbtype": "I",
             "wfreq": null
@@ -726,16 +726,16 @@
             "id": 1288,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 52.0,
+            "age": 52,
             "location": null,
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1289,
             "ethnicity": "Black",
             "gender": "F",
-            "age": 38.0,
+            "age": 38,
             "location": null,
             "bbtype": "I",
             "wfreq": null
@@ -744,25 +744,25 @@
             "id": 1290,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 53.0,
+            "age": 53,
             "location": null,
             "bbtype": "I",
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 1291,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 49.0,
+            "age": 49,
             "location": null,
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1292,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 46.0,
+            "age": 46,
             "location": null,
             "bbtype": "I",
             "wfreq": null
@@ -771,16 +771,16 @@
             "id": 1293,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 68.0,
+            "age": 68,
             "location": null,
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 1294,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 46.0,
+            "age": 46,
             "location": null,
             "bbtype": "I",
             "wfreq": null
@@ -789,73 +789,73 @@
             "id": 1295,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 48.0,
+            "age": 48,
             "location": null,
             "bbtype": "Both",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1296,
             "ethnicity": "Black",
             "gender": "f",
-            "age": 10.0,
+            "age": 10,
             "location": "Pinehurst,NC",
             "bbtype": "i",
-            "wfreq": 4.0
+            "wfreq": 4
         },
         {
             "id": 1297,
             "ethnicity": "Caucasion",
             "gender": "f",
-            "age": 10.0,
+            "age": 10,
             "location": "Pinehurst,NC",
             "bbtype": null,
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 1298,
             "ethnicity": "White",
             "gender": "m",
-            "age": 12.0,
+            "age": 12,
             "location": "Pinehurst,NC",
             "bbtype": "i",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1308,
             "ethnicity": "Black",
             "gender": "f",
-            "age": 40.0,
+            "age": 40,
             "location": "Durham,NC",
             "bbtype": null,
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1309,
             "ethnicity": "Black",
             "gender": "f",
-            "age": 6.0,
+            "age": 6,
             "location": "Durham,NC",
             "bbtype": null,
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 1310,
             "ethnicity": "Black",
             "gender": "m",
-            "age": 3.0,
+            "age": 3,
             "location": "Durham,NC",
             "bbtype": null,
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 1374,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 55.0,
+            "age": 55,
             "location": "Cary,NC",
             "bbtype": "o",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1415,
@@ -879,412 +879,412 @@
             "id": 1441,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 36.0,
+            "age": 36,
             "location": "Raleigh,NC",
             "bbtype": "I",
-            "wfreq": 4.0
+            "wfreq": 4
         },
         {
             "id": 1443,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 57.0,
+            "age": 57,
             "location": "Raleigh,NC",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1486,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 33.0,
+            "age": 33,
             "location": "Shrewsbury,UK",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1487,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 30.0,
+            "age": 30,
             "location": "Shrewsbury,UK",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1489,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 28.0,
+            "age": 28,
             "location": "WashingtonDC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1490,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 27.0,
+            "age": 27,
             "location": "DurhamNC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1491,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 24.0,
+            "age": 24,
             "location": "WashingtonDC",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1494,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 35.0,
+            "age": 35,
             "location": "Boone,NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1495,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 57.0,
+            "age": 57,
             "location": "Raleigh,NC",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1497,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 35.0,
+            "age": 35,
             "location": "Raleigh,NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1499,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 33.0,
+            "age": 33,
             "location": "Waynesville,NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1500,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 32.0,
+            "age": 32,
             "location": "Raleigh,NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1501,
             "ethnicity": null,
             "gender": "M",
-            "age": 38.0,
+            "age": 38,
             "location": "FallsChurch,VA",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1502,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 27.0,
+            "age": 27,
             "location": "Boone,NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1503,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 32.0,
+            "age": 32,
             "location": "Raleigh,NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1504,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 27.0,
+            "age": 27,
             "location": "Raleigh,NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1505,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 26.0,
+            "age": 26,
             "location": "Durham,NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1506,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 21.0,
+            "age": 21,
             "location": "Raleigh,NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1507,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 46.0,
+            "age": 46,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1508,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 60.0,
+            "age": 60,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1510,
             "ethnicity": "Black",
             "gender": "F",
-            "age": 21.0,
+            "age": 21,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 1511,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 46.0,
+            "age": 46,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1512,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 55.0,
+            "age": 55,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1513,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 15.0,
+            "age": 15,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1514,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 3.0,
+            "age": 3,
             "location": "NC",
             "bbtype": "o",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1515,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 51.0,
+            "age": 51,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 1516,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 57.0,
+            "age": 57,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1517,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 27.0,
+            "age": 27,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1518,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 25.0,
+            "age": 25,
             "location": "GA",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1519,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 25.0,
+            "age": 25,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1521,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 10.0,
+            "age": 10,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1524,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 14.0,
+            "age": 14,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 4.0
+            "wfreq": 4
         },
         {
             "id": 1526,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 6.0,
+            "age": 6,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1527,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 34.0,
+            "age": 34,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1530,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 54.0,
+            "age": 54,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 1531,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 39.0,
+            "age": 39,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 2.0
+            "wfreq": 2
         },
         {
             "id": 1532,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 38.0,
+            "age": 38,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1533,
             "ethnicity": "Black",
             "gender": "M",
-            "age": 37.0,
+            "age": 37,
             "location": "NC",
             "bbtype": "o",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1534,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 42.0,
+            "age": 42,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1535,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 35.0,
+            "age": 35,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1536,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 26.0,
+            "age": 26,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1537,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 28.0,
+            "age": 28,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1539,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 39.0,
+            "age": 39,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1540,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 30.0,
+            "age": 30,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1541,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 26.0,
+            "age": 26,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1542,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 36.0,
+            "age": 36,
             "location": "NC",
             "bbtype": "I",
             "wfreq": null
@@ -1293,244 +1293,244 @@
             "id": 1543,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 34.0,
+            "age": 34,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1544,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 33.0,
+            "age": 33,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 1545,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 39.0,
+            "age": 39,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1546,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 34.0,
+            "age": 34,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1547,
             "ethnicity": null,
             "gender": "M",
-            "age": 38.0,
+            "age": 38,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1548,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 6.0,
+            "age": 6,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1549,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 37.0,
+            "age": 37,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1550,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 29.0,
+            "age": 29,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1551,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 26.0,
+            "age": 26,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1552,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 25.0,
+            "age": 25,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 3.0
+            "wfreq": 3
         },
         {
             "id": 1553,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 50.0,
+            "age": 50,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1554,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 18.0,
+            "age": 18,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1555,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 26.0,
+            "age": 26,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1556,
             "ethnicity": "Hispanic",
             "gender": "M",
-            "age": 34.0,
+            "age": 34,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1557,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 26.0,
+            "age": 26,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 2.0
+            "wfreq": 2
         },
         {
             "id": 1558,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 26.0,
+            "age": 26,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 1.0
+            "wfreq": 1
         },
         {
             "id": 1561,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 31.0,
+            "age": 31,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 2.0
+            "wfreq": 2
         },
         {
             "id": 1562,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 39.0,
+            "age": 39,
             "location": "MT",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1563,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 31.0,
+            "age": 31,
             "location": "MT",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1564,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 36.0,
+            "age": 36,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 5.0
+            "wfreq": 5
         },
         {
             "id": 1572,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 33.0,
+            "age": 33,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1573,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 53.0,
+            "age": 53,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1574,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 30.0,
+            "age": 30,
             "location": "OK",
             "bbtype": "I",
-            "wfreq": 7.0
+            "wfreq": 7
         },
         {
             "id": 1576,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 33.0,
+            "age": 33,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1577,
             "ethnicity": "Caucasian",
             "gender": "M",
-            "age": 26.0,
+            "age": 26,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 0.0
+            "wfreq": 0
         },
         {
             "id": 1581,
             "ethnicity": "Asian(American)",
             "gender": "F",
-            "age": 22.0,
+            "age": 22,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 2.0
+            "wfreq": 2
         },
         {
             "id": 1601,
             "ethnicity": "Caucasian",
             "gender": "F",
-            "age": 22.0,
+            "age": 22,
             "location": "NC",
             "bbtype": "I",
-            "wfreq": 2.0
+            "wfreq": 2
         }
     ],
     "samples": [
@@ -2780,65 +2780,65 @@
                 874
             ],
             "sample_values": [
-                225.0,
-                185.0,
-                64.0,
-                57.0,
-                55.0,
-                50.0,
-                47.0,
-                29.0,
-                23.0,
-                20.0,
-                20.0,
-                19.0,
-                18.0,
-                18.0,
-                18.0,
-                15.0,
-                14.0,
-                13.0,
-                12.0,
-                12.0,
-                10.0,
-                10.0,
-                9.0,
-                9.0,
-                9.0,
-                8.0,
-                8.0,
-                7.0,
-                7.0,
-                7.0,
-                7.0,
-                6.0,
-                6.0,
-                6.0,
-                5.0,
-                5.0,
-                5.0,
-                5.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0
+                225,
+                185,
+                64,
+                57,
+                55,
+                50,
+                47,
+                29,
+                23,
+                20,
+                20,
+                19,
+                18,
+                18,
+                18,
+                15,
+                14,
+                13,
+                12,
+                12,
+                10,
+                10,
+                9,
+                9,
+                9,
+                8,
+                8,
+                7,
+                7,
+                7,
+                7,
+                6,
+                6,
+                6,
+                5,
+                5,
+                5,
+                5,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                3,
+                3,
+                3,
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
             ],
             "otu_labels": [
                 "Bacteria;Actinobacteria;Actinobacteria;Actinomycetales",
@@ -2969,50 +2969,50 @@
                 3585
             ],
             "sample_values": [
-                427.0,
-                123.0,
-                14.0,
-                13.0,
-                13.0,
-                11.0,
-                10.0,
-                7.0,
-                7.0,
-                7.0,
-                6.0,
-                5.0,
-                5.0,
-                5.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0
+                427,
+                123,
+                14,
+                13,
+                13,
+                11,
+                10,
+                7,
+                7,
+                7,
+                6,
+                5,
+                5,
+                5,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
             ],
             "otu_labels": [
                 "Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus",
@@ -3422,50 +3422,50 @@
                 1200
             ],
             "sample_values": [
-                137.0,
-                91.0,
-                61.0,
-                58.0,
-                49.0,
-                38.0,
-                31.0,
-                26.0,
-                17.0,
-                17.0,
-                14.0,
-                13.0,
-                12.0,
-                12.0,
-                10.0,
-                9.0,
-                7.0,
-                6.0,
-                6.0,
-                6.0,
-                5.0,
-                5.0,
-                5.0,
-                4.0,
-                4.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0
+                137,
+                91,
+                61,
+                58,
+                49,
+                38,
+                31,
+                26,
+                17,
+                17,
+                14,
+                13,
+                12,
+                12,
+                10,
+                9,
+                7,
+                6,
+                6,
+                6,
+                5,
+                5,
+                5,
+                4,
+                4,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
             ],
             "otu_labels": [
                 "Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Corynebacteriaceae;Corynebacterium",
@@ -9823,43 +9823,43 @@
                 345
             ],
             "sample_values": [
-                202.0,
-                160.0,
-                88.0,
-                68.0,
-                67.0,
-                46.0,
-                29.0,
-                25.0,
-                19.0,
-                13.0,
-                7.0,
-                7.0,
-                6.0,
-                6.0,
-                5.0,
-                5.0,
-                5.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                4.0,
-                3.0,
-                3.0,
-                3.0,
-                3.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0,
-                2.0
+                202,
+                160,
+                88,
+                68,
+                67,
+                46,
+                29,
+                25,
+                19,
+                13,
+                7,
+                7,
+                6,
+                6,
+                5,
+                5,
+                5,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                3,
+                3,
+                3,
+                3,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
             ],
             "otu_labels": [
                 "Bacteria;Firmicutes;Clostridia;Clostridiales;IncertaeSedisXI;Peptoniphilus",
