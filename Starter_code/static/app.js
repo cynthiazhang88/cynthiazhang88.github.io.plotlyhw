@@ -87,7 +87,8 @@ function changeDemographic(id) {
 };
 
 // Intializing the buld plot and gathering Demo info
-function init() {
+function init() 
+
     var dropDownMenu = d3.select("#selDataset");
     d3.json(dataAsJSON).then((data) => {
         var sample_names = data.names
